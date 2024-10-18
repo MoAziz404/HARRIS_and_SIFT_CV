@@ -1,6 +1,4 @@
-##
-SIFT
-##
+
 Harris
 ##
 ![iii](https://github.com/Shehab-Hegab/CV-Task-3/assets/137138481/7de7da5b-a69f-45d7-bfe6-851fd79eac8e)
